@@ -40,7 +40,8 @@ Construction engineer turned software builder.
 
 ## Philosophy
 
-> "Personally, I always dreamed about going into the woods and fighting the dragon, not selling the guy a sword." - Andrew Yang
+> "Personally, I always dreamed about going into the woods and fighting the dragon, not selling the guy a sword."
+>       - Andrew Yang
 
 <details>
 <summary>Fun Facts</summary>
