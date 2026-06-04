@@ -14,13 +14,13 @@ Construction engineer turned software builder.
 ### AI & Automation
 
 - 🤖 **[JCode](https://github.com/CaesarBrahh/JCode)** - Coding agent with tool calling and autonomous iteration
-- 🍓 **[LAN-AI-API-Server-Demos](https://github.com/CaesarBrahh/LAN-AI-API-Server-Demos)** - Raspberry Pi + Ollama API demos
+- 🍓 **[LAN-AI-API-Server-Demos](https://github.com/CaesarBrahh/LAN-AI-API-Server-Demos)** - Self-hosted LLM running on a Raspberry Pi
 - 🕹️ **[MazeBound-Bot](https://github.com/CaesarBrahh/MazeBound-Bot)** - Selenium game-playing bot
 - 🧠 **[Terminal-2048](https://github.com/CaesarBrahh/terminal-2048)** - Heuristic algorithm beats 2048
 
 ### Software & Applications
 
-- ☀️ **[DTracker-Web](https://dtracker.caesarbrahh.dev/)** - Vitamin D estimator & tracker
+- ☀️ **[DTracker-Web](https://dtracker.caesarbrahh.dev/)** - GPS-powered Vitamin D estimator & tracker
 - 🎵 **[Sound-of-Functions](https://github.com/CaesarBrahh/The-Sound-of-Functions)** - Translate functions into audio-visual output
 
 ### Games
@@ -30,7 +30,14 @@ Construction engineer turned software builder.
 - ☄️ **[Asteroids](https://github.com/CaesarBrahh/asteroids)** - Arcade-inspired space shooter
 - 🌀 **[MazeBound](https://mazebound.caesarbrahh.dev/)** **[MazeBound-iOS](https://github.com/CaesarBrahh/MazeBound-iOS)** - Inverse snake
 - 🐍 **[Snake-CLI](https://github.com/CaesarBrahh/snake-cli)** - Snake running in the terminal
-  
+
+## Currently Learning
+
+- ☕ Java & JavaFX
+- 🌐 Computer Networking
+- 🤖 AI Agents & Tool Calling
+- ⚙️ Backend Development
+
 <details>
 <summary>Fun Facts</summary>
 
