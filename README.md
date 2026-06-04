@@ -21,7 +21,7 @@ Construction engineer turned software builder.
 ### Software & Applications
 
 - ☀️ **[DTracker-Web](https://dtracker.caesarbrahh.dev/)** - Vitamin D estimator & tracker
-- 🎵 **[Sound-of-Functions](https://github.com/CaesarBrahh/The-Sound-of-Functions)** - 
+- 🎵 **[Sound-of-Functions](https://github.com/CaesarBrahh/The-Sound-of-Functions)** - Translate functions into audio-visual output
 
 ### Games
 
