@@ -1,6 +1,6 @@
 ## Sup, I'm Julian 👋
 
-📍 **NoVA → Dallas** | 🎓 Engineering graduate @ Virginia Tech 
+📍 **NoVA → Dallas** | 🎓 **Engineering graduate @ Virginia Tech** <!--| 👨‍💻 **Software Engineer I @ Varsity Brands**-->
 
 Construction engineer turned software builder, creating interactive applications and creative coding projects.
 
