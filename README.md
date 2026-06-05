@@ -2,7 +2,7 @@
 
 📍 **NoVA → Dallas** | 🎓 **Engineering graduate @ Virginia Tech** <!--| 👨‍💻 **Software Engineer I @ Varsity Brands**-->
 
-Construction engineer turned software builder, creating interactive applications and creative coding projects.
+Construction engineer turned software builder, developing interactive applications and creative coding projects.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
