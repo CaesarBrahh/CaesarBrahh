@@ -26,8 +26,8 @@ Construction engineer turned software builder, developing interactive applicatio
 ### Games
 
 - ❌ **[3D-TicTacToe](https://3dtictactoe.caesarbrahh.dev/)** - 3x3x3 Tic-Tac-Toe
-- 🏃 **[TypeRun](https://typerun.caesarbrahh.dev/)** - Type racing game
 - ☄️ **[Asteroids](https://github.com/CaesarBrahh/asteroids)** - Arcade-inspired space shooter
+- 🏃 **[TypeRun](https://typerun.caesarbrahh.dev/)** - Type racing game
 - 🌀 **[MazeBound](https://mazebound.caesarbrahh.dev/)** **[MazeBound-iOS](https://github.com/CaesarBrahh/MazeBound-iOS)** - Inverse snake
 - 🐍 **[Snake-CLI](https://github.com/CaesarBrahh/snake-cli)** - Snake running in the terminal
 
