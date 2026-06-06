@@ -7,6 +7,7 @@ Construction engineer turned software builder, developing interactive applicatio
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=00599C)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 ## Current Projects
@@ -21,6 +22,7 @@ Construction engineer turned software builder, developing interactive applicatio
 ### Software & Applications
 
 - ☀️ **[DTracker-Web](https://dtracker.caesarbrahh.dev/)** - GPS-powered Vitamin D estimator & tracker
+- 📈 **[NoFap: Ranked](https://apps.apple.com/us/app/nofap-ranked/id6746125034)** - Full-stack iOS app for XP-based habit tracking
 - 🎵 **[Sound-of-Functions](https://github.com/CaesarBrahh/The-Sound-of-Functions)** - Translate functions into audio-visual output
 
 ### Games
