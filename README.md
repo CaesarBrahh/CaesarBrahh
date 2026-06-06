@@ -22,7 +22,7 @@ Construction engineer turned software builder, developing interactive applicatio
 ### Software & Applications
 
 - ☀️ **[DTracker-Web](https://dtracker.caesarbrahh.dev/)** - GPS-powered Vitamin D estimator & tracker
-- 📈 **[NoFap: Ranked](https://apps.apple.com/us/app/nofap-ranked/id6746125034)** - Full-stack iOS app for XP-based habit tracking
+- ⚡ **[NoFap: Ranked](https://apps.apple.com/us/app/nofap-ranked/id6746125034)** - Full-stack iOS app for XP-based habit tracking
 - 🎵 **[Sound-of-Functions](https://github.com/CaesarBrahh/The-Sound-of-Functions)** - Translate functions into audio-visual output
 
 ### Games
