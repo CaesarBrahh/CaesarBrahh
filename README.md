@@ -1,6 +1,6 @@
 ## Sup, I'm Julian 👋
 
-📍 **Dallas ← NoVA** | 🎓 **Engineering graduate @ Virginia Tech** <!--| 👨‍💻 **Software Engineer I @ Varsity Brands**-->
+📍 **Dallas ← NoVA** | 🎓 **Engineering graduate @ Virginia Tech** <!--| 👨‍💻 **Software Engineer I @ **-->
 
 Construction engineer turned software builder, developing interactive applications and creative coding projects.
 
@@ -23,6 +23,7 @@ Construction engineer turned software builder, developing interactive applicatio
 
 - ☀️ **[DTracker-Web](https://dtracker.caesarbrahh.dev/)** - GPS-powered Vitamin D estimator & tracker
 - ⚡ **[NoFap: Ranked](https://apps.apple.com/us/app/nofap-ranked/id6746125034)** - Full-stack iOS app for XP-based habit tracking
+<!-- - 📚 **[LearnIt-TUI]()** - Flashcards n shit-->
 - 🎵 **[Sound-of-Functions](https://github.com/CaesarBrahh/The-Sound-of-Functions)** - Translate functions into audio-visual output
 
 ### Games
@@ -32,6 +33,11 @@ Construction engineer turned software builder, developing interactive applicatio
 - 🏃 **[TypeRun](https://typerun.caesarbrahh.dev/)** - Type racing game
 - 🌀 **[MazeBound](https://mazebound.caesarbrahh.dev/)** **[MazeBound-iOS](https://github.com/CaesarBrahh/MazeBound-iOS)** - Inverse snake
 - 🐍 **[Snake-CLI](https://github.com/CaesarBrahh/snake-cli)** - Snake running in the terminal
+
+<!--
+### Clones
+- 
+-->
 
 ## Currently Learning
 
@@ -48,22 +54,7 @@ Construction engineer turned software builder, developing interactive applicatio
 <details>
 <summary>Fun Facts</summary>
 
-- Gym enthusiast (when not coding)
+- Gym enthusiast (when not cycling or rock climbing)
 - I consider myself a snack connoisseur. I have a deep knowledge of snacks, and I like to share!
 
 </details>
-
-<!--
-**CaesarBrahh/CaesarBrahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
