@@ -41,7 +41,6 @@ Construction engineer turned software builder, developing interactive applicatio
 
 ## Currently Learning
 
-- ☕ Java & JavaFX
 - 🌐 Computer Networking
 - 🤖 AI Agents & Tool Calling
 - ⚙️ Backend Development
@@ -57,4 +56,13 @@ Construction engineer turned software builder, developing interactive applicatio
 - Gym enthusiast (when not cycling or rock climbing)
 - I consider myself a snack connoisseur. I have a deep knowledge of snacks, and I like to share!
 
+</details>
+
+### Riddle
+
+If you're cracked, you don't need it. If you're not cracked yet, you shouldn't use it."
+
+<details>
+<summary>What am I?</summary>
+  AI
 </details>
