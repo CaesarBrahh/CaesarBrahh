@@ -5,9 +5,9 @@
 Construction engineer turned software builder, developing interactive applications and creative coding projects.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=00599C)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 ## Current Projects
@@ -50,19 +50,12 @@ Construction engineer turned software builder, developing interactive applicatio
 > "Personally, I always dreamed about going into the woods and fighting the dragon, not selling the guy a sword."
 >       - Andrew Yang
 
+> "If you're cracked, you don't need it. If you're not cracked yet, you shouldn't use it." - Warren Buffet on AI
+
 <details>
 <summary>Fun Facts</summary>
 
 - Gym enthusiast (when not cycling or rock climbing)
 - I consider myself a snack connoisseur. I have a deep knowledge of snacks, and I like to share!
 
-</details>
-
-### Riddle
-
-If you're cracked, you don't need it. If you're not cracked yet, you shouldn't use it."
-
-<details>
-<summary>What am I?</summary>
-  AI
 </details>
