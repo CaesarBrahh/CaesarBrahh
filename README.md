@@ -50,7 +50,7 @@ Construction engineer turned software builder, developing interactive applicatio
 > "Personally, I always dreamed about going into the woods and fighting the dragon, not selling the guy a sword."
 >       - Andrew Yang
 
-> "If you're cracked, you don't need it. If you're not cracked yet, you shouldn't use it." - Warren Buffet on AI
+> "If you're cracked, you don't need it. If you're not cracked yet, you shouldn't use it." - Warren Buffett on AI
 
 <details>
 <summary>Fun Facts</summary>
